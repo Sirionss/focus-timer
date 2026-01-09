@@ -1,11 +1,15 @@
-# focus-timer
+# Focus-timer
 Step 1: Install Node.js
-Download and install Node.js LTS version from nodejs.org. Verify installation by running: node --version
+Download and install Node.js LTS version from nodejs.org. 
+Verify installation by running: node --version
+
 Step 2: Clone the Repository
 git clone [REPOSITORY_URL]
 cd FocusTimer
+
 Step 3: Install Dependencies
 npm install
+
 Step 4: Run the Application
 •	For web browser: npm run web
 •	For mobile (Expo Go): npx expo start, then scan QR code
